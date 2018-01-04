@@ -1,0 +1,13 @@
+{
+  "plugins": [
+    "transform-class-properties"
+  ],
+  "presets": [
+    ["env", {
+      "targets": {
+        "browsers": "> 5%"
+      }
+    }],
+    "react"
+  ]
+}
